@@ -1,9 +1,21 @@
 # A Fine-grained Sentiment Analysis of App Reviews using LLMs: An Evaluation Study [Replication package]
 
 The code in this repository evaluates the performance of GPT-4, ChatGPT, LLama-2-Chat-7b, LLama-2-Chat-13b, and LLama-2-Chat-70b for identifying app features with their associated sentiments from app reviews.
+
+
+
+<!--[![arXiv](https://img.shields.io/badge/arXiv-2209.08163-b31b1b.svg)](https://arxiv.org) --->
+
+
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/drive/1vi9NeZgUpHY7MOu0rCefBIb9ztwPw255?usp=sharing) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ahmed.jp/project_page/App_LLMs_2024/app_llms.html)
+
+<!--
+
 [![Static Badge](https://img.shields.io/badge/paper-demo-blue)
 ](./python_scripts/paper_demo.ipynb)
 
+-->
 ## Project Structure
 
 The project is organized into the following folders:
