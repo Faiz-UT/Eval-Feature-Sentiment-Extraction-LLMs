@@ -1,0 +1,6 @@
+Consider the following definitions of "feature", "feature expression", and "sentiment polarity":
+The "feature" refers to a software application functionality (e.g., "send message"), a module (e.g., "user account") providing functionalities (e.g., "delete account" or "edit information") or a design component (e.g., UI) providing functional capabilities (e.g., "configuration screen", "button").
+The "feature expression" is an actual sequence of words that appears in a review text and explicitly indicate a feature.
+The "sentiment polarity" refers to the degree of positivity, negativity or neutrality expressed towards the feature of a software application, and the available polarities includes: 'positive', 'neutral' or 'negative'.
+Identify all feature expressions with their corresponding sentiment polarities in the following review text (enclosed in double quotations). Output the results in the format of [('feature expression', 'sentiment polarity'), ...]. If no feature expression is identified, return an empty Python list. Don't output any other information.
+

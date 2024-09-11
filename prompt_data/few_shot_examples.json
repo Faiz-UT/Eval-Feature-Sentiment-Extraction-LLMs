@@ -1,0 +1,52 @@
+[
+  {
+    "Review": "I have constantly failed to sync my notes, photos, and documents",
+    "features": "sync my notes;sync photos;sync document",
+    "sentiments": "negative;negative;negative"
+  },
+  {
+    "Review": "This app is amazing, so many options!",
+    "features": "none",
+    "sentiments": "none"
+  },
+  {
+    "Review": "It's better to chat with friends.",
+    "features": "chat with friends",
+    "sentiments": "neutral"
+  },
+  {
+    "Review": "I can send message.",
+    "features": "send message",
+    "sentiments": "neutral"
+  },
+  {
+    "Review": "Easy to search for items on eBay.",
+    "features": "search for items",
+    "sentiments": "positive"
+  },
+  {
+    "Review": "WhatsApp can always reliably and quickly send my messages",
+    "features": "send my messages",
+    "sentiments": "positive"
+  },
+  {
+    "Review": "It's so great to be able to check my status on various bids, search for new items and place new bids all from my cell phone",
+    "features": "check my status;search for new items;place new bids",
+    "sentiments": "positive;positive;positive"
+  },
+  {
+    "Review": "Dropbox lets me upload my files.",
+    "features": "upload my files",
+    "sentiments": "neutral"
+  },
+  {
+  "Review": "Like a well made rolltop desk, Evernote consistently provides storage in a convenient manner",
+  "features": "provides storage",
+  "sentiments": "positive"
+  },
+  {
+    "Review": "Good app, could be a little lighter",
+    "features": "none",
+    "sentiments": "none"
+  }
+]
