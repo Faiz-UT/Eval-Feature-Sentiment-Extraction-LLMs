@@ -91,3 +91,26 @@ python feature_level_sentiment_analysis.py --llm_model "meta-llama/Llama-2-7b-ch
 python feature_level_sentiment_snalysis.py  --llm_model "meta-llama/Llama-2-7b-chat-hf" --secret_key %hf-token% --few_shot_examples 5
 ```
 Running the script "feature_level_sentiment_analysis.py" will create a folder with the name of the LLM model inside the folder "results". All the detailed performance analyses of the LLM at the feature level, sentiment level for each app, and individual iteration will be put in this folder. This folder also contains overall summary reports of model's performances for predicting feature and sentiment tasks. 
+
+
+
+## Citation
+
+
+The details of this repo are described in the following paper. If you find this repo useful, please kindly cite it:
+
+```bibtex
+@misc{shah2024finegrainedsentimentanalysisapp,
+      title={A Fine-grained Sentiment Analysis of App Reviews using Large Language Models: An Evaluation Study}, 
+      author={Faiz Ali Shah and Ahmed Sabir and Rajesh Sharma},
+      year={2024},
+      eprint={2409.07162},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2409.07162}, 
+}
+```
+
+
+
+
