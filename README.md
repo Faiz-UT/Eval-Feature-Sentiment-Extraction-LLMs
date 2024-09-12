@@ -9,10 +9,7 @@ This repository contains the implementation of the paper "A Fine-grained Sentime
 
 
 
-[![ArXiv](https://img.shields.io/badge/arXiv-2409.07162-b31b1b)](https://arxiv.org/abs/2409.07162)
-
-
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](
+[![ArXiv](https://img.shields.io/badge/arXiv-2409.07162-b31b1b)](https://arxiv.org/abs/2409.07162) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/drive/1vi9NeZgUpHY7MOu0rCefBIb9ztwPw255?usp=sharing) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ahmed.jp/project_page/App_LLMs_2024/app_llms.html)
 
 <!--
