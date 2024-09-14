@@ -42,7 +42,7 @@ To run the experiments, perform the following steps:
 4. Go to the project directory
 4. Enter the command "cd python_scripts"
 ### Evaluating the performance of zero-shot with short or long prompts
-Use the following commands to evaluate the zero-shot performance of GPT family models (i.e., ChatGPT, GPT-4)
+Use the following commands to evaluate the zero-shot performance of GPT family models (_i.e._ ChatGPT, GPT-4).  Note that you can use any GPT version (_e.g._ ```GPT-4o```).
 ```bash
 # Evaluating ChatGPT (default model) with the "short" prompt under zero-shot settings
 python feature_level_sentiment_analysis.py --prompt_type "short"
@@ -59,7 +59,7 @@ python feature_level_sentiment_analysis.py --llm_model "gpt-4" --prompt_type "lo
 # If an environment variable "OPENAI_API_KEY" is not set, assign the OpenAI secret key to parameter "secret_key" as shown in the following command
 python feature_level_sentiment_analysis.py --llm_model "gpt-4" --secret_key "PUT_SECRET_KEY_HERE" --prompt_type "long"
 ```
-Use the following commands to evaluate the zero-shot performance of LLama chat models (i.e., llama-2-7b-chat-hf, llama-2-13b-chat-hf,llama-2-70b-chat-hf) with the short prompt or long prompts. Ensure the secret key from huggingface has been set to variable "hf-token".
+Use the following commands to evaluate the zero-shot performance of LLama chat models (i.e., llama-2-7b-chat-hf, llama-2-13b-chat-hf,llama-2-70b-chat-hf) with the short prompt or long prompts. Ensure the secret key from huggingface has been set to variable "hf-token". Note that you can run any LLama version (_e.g._ ```meta-llama/Meta-Llama-3.1-8B```).
 ```bash
 # Evaluating LLama 7b model with the "short" prompt under zero-shot settings. Similarly, pass the bigger llama-2-chat model for its evaluation
 python feature_level_sentiment_analysis.py --llm_model "meta-llama/Llama-2-7b-chat-hf" --secret_key %hf-token% --prompt_type "short" 
@@ -68,7 +68,7 @@ python feature_level_sentiment_analysis.py --llm_model "meta-llama/Llama-2-7b-ch
 python feature_level_sentiment_analysis.py --llm_model "meta-llama/Llama-2-7b-chat-hf" --secret_key %hf-token% --prompt_type "long"
 ```
 ### Evaluating 1-shot and 5-shot performance of LLMs with the short prompt
-Use the following commands to evaluate the 1-shot and 5-shot performance of GPT family models 
+Use the following commands to evaluate the 1-shot and 5-shot performance of GPT family models. Note that you can use any GPT version (_e.g._ ```GPT-4o```).
 ```bash
 # To evaluate the 1-shot performance of ChatGPT with the "short" prompt
 python feature_level_sentiment_analysis.py --few_shot_examples 1
@@ -82,7 +82,7 @@ python feature_level_sentiment_snalysis.py  --few_shot_examples 5
 # To evaluate 5-shot performance of gpt-4 with the "short" prompt
 python feature_level_sentiment_analysis.py --llm_model="gpt-4" --prompt_type "short" --few_shot_examples 5
 ```
-Use the following commands to evaluate the 1-shot and 5-shot performances of Llama-2-chat models
+Use the following commands to evaluate the 1-shot and 5-shot performances of Llama-2-chat models. Note that you can run any LLama version (e.g., ```meta-llama/Meta-Llama-3.1-8B```).
 ```bash
 # To evaluate 1-shot performance of LLama-2-7b-chat-hf with the "short" prompt
 python feature_level_sentiment_analysis.py --llm_model "meta-llama/Llama-2-7b-chat-hf" --secret_key %hf-token% --few_shot_examples 1
