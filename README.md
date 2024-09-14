@@ -100,15 +100,13 @@ Running the script "feature_level_sentiment_analysis.py" will create a folder wi
 The details of this repo are described in the following paper. If you find this repo useful, please kindly cite it:
 
 ```bibtex
-@misc{shah2024finegrainedsentimentanalysisapp,
-      title={A Fine-grained Sentiment Analysis of App Reviews using Large Language Models: An Evaluation Study}, 
-      author={Faiz Ali Shah and Ahmed Sabir and Rajesh Sharma},
-      year={2024},
-      eprint={2409.07162},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2409.07162}, 
+@article{shah2024fine,
+  title={A Fine-grained Sentiment Analysis of App Reviews using Large Language Models: An Evaluation Study},
+  author={Shah, Faiz Ali and Sabir, Ahmed and Sharma, Rajesh},
+  journal={arXiv preprint arXiv:2409.07162},
+  year={2024}
 }
+
 ```
 
 
