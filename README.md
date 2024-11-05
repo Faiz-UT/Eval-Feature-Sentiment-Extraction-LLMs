@@ -94,7 +94,7 @@ python feature_level_sentiment_snalysis.py  --llm_model "meta-llama/Llama-2-7b-c
 Running the script "feature_level_sentiment_analysis.py" will create a folder with the name of the LLM model inside the folder "results". All the detailed performance analyses of the LLM at the feature level, sentiment level for each app, and individual iteration will be put in this folder. This folder also contains overall summary reports of model's performances for predicting feature and sentiment tasks. 
 
 
-<!--
+
 
 ## Citation
 
@@ -110,7 +110,7 @@ The details of this repo are described in the following paper. If you find this 
 }
 
 ```
---->
+
 
 
 
