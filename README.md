@@ -1,4 +1,5 @@
-# A Fine-grained Sentiment Analysis of App Reviews using LLMs: An Evaluation Study 
+# Evaluating LLMs Performance in Extracting Feature-Sentiment Pairs from App Reviews
+
 
 <!--The code in this repository evaluates the performance of GPT-4, ChatGPT, LLama-2-Chat-7b, LLama-2-Chat-13b, and LLama-2-Chat-70b for identifying app features with their associated sentiments from app reviews.-->
 
