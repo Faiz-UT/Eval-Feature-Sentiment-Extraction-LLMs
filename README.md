@@ -3,7 +3,7 @@
 
 <!--The code in this repository evaluates the performance of GPT-4, ChatGPT, LLama-2-Chat-7b, LLama-2-Chat-13b, and LLama-2-Chat-70b for identifying app features with their associated sentiments from app reviews.-->
 
-This repository contains the implementation of the paper "How Effectively Do LLMs Extract Feature-Sentiment Pairs from App Reviews?", which evaluates the performance of LLMs for identifying app features with their associated sentiments in app reviews. LLM performance (_i.e._ GPT-4, ChatGPT, LLaMA-2-Chat-7b, LLaMA-2-Chat-13b, and LLaMA-2-Chat-70b) is evaluated using zero-shot and few-shot (_i.e._ 1-shot, 5-shot) in-context learning strategies.
+This repository contains the implementation of the REFSQ 2025 paper "How Effectively Do LLMs Extract Feature-Sentiment Pairs from App Reviews?", which evaluates the performance of LLMs for identifying app features with their associated sentiments in app reviews. LLM performance (_i.e._ GPT-4, ChatGPT, LLaMA-2-Chat-7b, LLaMA-2-Chat-13b, and LLaMA-2-Chat-70b) is evaluated using zero-shot and few-shot (_i.e._ 1-shot, 5-shot) in-context learning strategies.
 
 <!--[![arXiv](https://img.shields.io/badge/arXiv-2209.08163-b31b1b.svg)](https://arxiv.org) --->
 
