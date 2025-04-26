@@ -102,11 +102,13 @@ Running the script "feature_level_sentiment_analysis.py" will create a folder wi
 The details of this repo are described in the following paper. If you find this repo useful, please kindly cite it:
 
 ```bibtex
-@article{shah2024fine,
-  title={A Fine-grained Sentiment Analysis of App Reviews using Large Language Models: An Evaluation Study},
-  author={Shah, Faiz Ali and Sabir, Ahmed and Sharma, Rajesh},
-  journal={arXiv preprint arXiv:2409.07162},
-  year={2024}
+@inproceedings{shah2025effectively,
+  title={How Effectively Do LLMs Extract Feature-Sentiment Pairs from App Reviews?},
+  author={Shah, Faiz Ali and Sabir, Ahmed and Sharma, Rajesh and Pfahl, Dietmar},
+  booktitle={International Working Conference on Requirements Engineering: Foundation for Software Quality},
+  pages={123--138},
+  year={2025},
+  organization={Springer}
 }
 
 ```
