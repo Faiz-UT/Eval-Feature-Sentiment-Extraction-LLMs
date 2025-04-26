@@ -11,7 +11,7 @@ This repository contains the implementation of the REFSQ 2025 paper "How Effecti
 
 
 [![ArXiv](https://img.shields.io/badge/arXiv-2409.07162-b31b1b)](https://arxiv.org/abs/2409.07162) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/drive/1vi9NeZgUpHY7MOu0rCefBIb9ztwPw255?usp=sharing) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ahmed.jp/project_page/App_LLMs_2024/app_llms.html)   ![](https://img.shields.io/badge/REFSQ%202025-purple])](https://link.springer.com/chapter/10.1007/978-3-031-88531-0_9)
+https://colab.research.google.com/drive/1vi9NeZgUpHY7MOu0rCefBIb9ztwPw255?usp=sharing) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ahmed.jp/project_page/App_LLMs_2024/app_llms.html)   [![](https://img.shields.io/badge/REFSQ%202025-purple])](https://link.springer.com/chapter/10.1007/978-3-031-88531-0_9)
 
 <!--
 
